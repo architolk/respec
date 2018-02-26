@@ -36,7 +36,7 @@ define(
     "core/github",
     "core/data-include",
     "core/markdown",
-    "w3c/headers", // Need to change this to LDT specific
+    "ldt/headers",
     "w3c/abstract",
     "w3c/conformance",
     "core/data-transform",

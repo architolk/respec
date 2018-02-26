@@ -3,6 +3,7 @@ scratch
 *~
 /node_modules
 .htaccess
+deploy.sh
 examples/touchevents.html
 bevy.json
 .idea
@@ -15,3 +16,4 @@ js/templates.js
 js/ui/*.js
 js/w3c/templates/*
 js/w3c/*.js
+js/ldt/*.js
